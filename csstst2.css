@@ -1,0 +1,23 @@
+.changesize:focus
+{font-size: 18px;
+ border-radius: 10px;
+ border-color: red;
+ border-style:solid;
+
+}
+.entry
+{border-radius: 10px;
+ border-color: red;
+ transition: 3s,3s;
+ border-style:solid;
+
+}
+.container
+{text-align: center;
+ height: : 100%;
+ vertical-align: middle;
+}
+div
+{padding-top: 160px;
+
+}
